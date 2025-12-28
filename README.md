@@ -1,8 +1,8 @@
-#Project Title
+# Project Title
 
 Adult Income Prediction using Scikit-Learn Pipeline and GridSearchCV
 
-#Description
+## Description
 
 This project predicts whether an individual earns more than $50K/year based on the UCI Adult dataset. It uses a machine learning pipeline that combines data preprocessing, dimensionality reduction (PCA), and a Random Forest classifier.
 
